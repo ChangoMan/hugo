@@ -1,5 +1,5 @@
 baseurl = "https://changoman.github.io/hugo/"
 languageCode = "en-us"
 title = "Marketing 360"
-theme = "ananke"
+theme = "bootstrap"
 publishDir = "docs"
