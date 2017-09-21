@@ -10,5 +10,41 @@
 	<atom:link href="https://changoman.github.io/hugo/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Development</title>
+      <link>https://changoman.github.io/hugo/categories/development/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://changoman.github.io/hugo/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://changoman.github.io/hugo/categories/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://changoman.github.io/hugo/categories/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Migration</title>
+      <link>https://changoman.github.io/hugo/categories/migration/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://changoman.github.io/hugo/categories/migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theme</title>
+      <link>https://changoman.github.io/hugo/categories/theme/</link>
+      <pubDate>Tue, 20 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://changoman.github.io/hugo/categories/theme/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

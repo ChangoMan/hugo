@@ -6,17 +6,80 @@
     <description>Recent content in Tags on Marketing 360</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Apr 2017 11:14:48 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://changoman.github.io/hugo/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Scene</title>
-      <link>https://changoman.github.io/hugo/tags/scene/</link>
-      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      <title>Development</title>
+      <link>https://changoman.github.io/hugo/tags/development/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://changoman.github.io/hugo/tags/scene/</guid>
+      <guid>https://changoman.github.io/hugo/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>https://changoman.github.io/hugo/tags/go/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://changoman.github.io/hugo/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://changoman.github.io/hugo/tags/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://changoman.github.io/hugo/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://changoman.github.io/hugo/tags/hugo/</link>
+      <pubDate>Tue, 20 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://changoman.github.io/hugo/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll</title>
+      <link>https://changoman.github.io/hugo/tags/jekyll/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://changoman.github.io/hugo/tags/jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Templates</title>
+      <link>https://changoman.github.io/hugo/tags/templates/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://changoman.github.io/hugo/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theme</title>
+      <link>https://changoman.github.io/hugo/tags/theme/</link>
+      <pubDate>Tue, 20 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://changoman.github.io/hugo/tags/theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Themes</title>
+      <link>https://changoman.github.io/hugo/tags/themes/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://changoman.github.io/hugo/tags/themes/</guid>
       <description></description>
     </item>
     
