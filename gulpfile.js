@@ -1,3 +1,5 @@
+// http://danbahrami.io/articles/building-a-production-website-with-hugo-and-gulp-js/
+
 var gulp         = require("gulp"),
     sass         = require("gulp-sass"),
     autoprefixer = require("gulp-autoprefixer"),
