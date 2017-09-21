@@ -1,8 +1,6 @@
 // http://danbahrami.io/articles/building-a-production-website-with-hugo-and-gulp-js/
-
 var gulp         = require("gulp"),
     sass         = require("gulp-sass"),
-    autoprefixer = require("gulp-autoprefixer"),
     hash         = require("gulp-hash"),
     del          = require("del")
 
@@ -11,7 +9,6 @@ gulp.task("scss", function () {
     del(["static/css/**/*"])
     gulp.src("src/scss/**/*.scss")
         .pipe(sass({outputStyle : "compressed"}))
-        .pipe(autoprefixer({browsers : ["last 20 versions"]}))
         .pipe(hash())
         .pipe(gulp.dest("static/css"))
         //Create a hash map
@@ -37,4 +34,4 @@ gulp.task("watch", ["scss", "js"], function () {
 })
 
 // Set watch as default task
-gulp.task("default", ["watch"])
+gulp.task("default", ["scss", "js"])
