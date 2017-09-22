@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Marketing 360</title>
+    <title>Hugo Bootstrap</title>
     <link>https://changoman.github.io/hugo/</link>
-    <description>Recent content on Marketing 360</description>
+    <description>Recent content on Hugo Bootstrap</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Oct 2015 00:00:00 +0000</lastBuildDate>

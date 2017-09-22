@@ -1,26 +1,6 @@
 hugo-bootstrap
 ==============
-A theme with bootstrap 4, font-awesome, highlightjs
-
-*NOTE: This theme is copied inspired [Icarus] https://github.com/digitalcraftsman/hugo-icarus-theme
-Feel free to make changes and open pull requests.*
-
-You can find a live site using this theme [here](http://mmrath.com/).
-
-## Screenshot
-
-![preview](https://github.com/mmrath/hugo-bootstrap/blob/master/images/screenshot.png)
-
-## Installation
-
-```
-$ cd your_site_repo/
-$ mkdir themes
-$ cd themes
-$ git clone https://github.com/mmrath/hugo-bootstrap
-```
-
-See the [official Hugo themes documentation](http://gohugo.io/themes/installing) for more info.
+A theme with Bootstrap 4
 
 ## Usage
 
@@ -37,7 +17,7 @@ This theme expects a relatively standard Hugo blog/personal site layout:
     └── other_page.md
 ```
 
-Just run `hugo --theme=hugo-bootstrap` to generate your site!
+Just run `hugo --theme=bootstrap` to generate your site!
 
 ## Configuration
 
