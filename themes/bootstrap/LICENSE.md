@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2017 Murali Mohan Rath
+Copyright (c) 2017 Hunter Chang
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
